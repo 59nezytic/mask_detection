@@ -1,3 +1,3 @@
 # mask_detection
 
-# YOLOv3
+YOLOv3 config file
